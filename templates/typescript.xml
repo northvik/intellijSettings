@@ -1,0 +1,7 @@
+<templateSet group="typescript">
+  <template name="tslint" value="// tslint:disable-next-line" description="lint ignore" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,19 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Downloads/TypscriptEditorStyle.xml" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.14.0/bin/node">
+      <version-cache version="8.14.0" last-modified="1543298432000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.0.0/bin/node">
+      <version-cache version="8.0.0" last-modified="1496165247000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.9.1/bin/node">
+      <version-cache version="4.9.1" last-modified="1522361822000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/v0.10.29/bin/node">
+      <version-cache version="0.10.29" last-modified="1402334119000" />
+    </local-interpreter>
+  </component>
+</application>
