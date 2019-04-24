@@ -4,4 +4,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="consl" value="// tslint:disable-next-line&#10;console.log($content$);" description="consolelog" toReformat="false" toShortenFQNames="true">
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
