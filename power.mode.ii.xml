@@ -1,5 +1,6 @@
 <application>
   <component name="PowerModeII">
+    <option name="bamLife" value="966" />
     <option name="customBamImageFolder" value="$APPLICATION_HOME_DIR$/bin" />
     <option name="customFlameImageFolder" value="$APPLICATION_HOME_DIR$/bin" />
     <option name="flamesEnabled" value="false" />
