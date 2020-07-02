@@ -10,4 +10,5 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="eslint" value="// eslint-disable-next-line" description="eslint disable" toReformat="false" toShortenFQNames="true" />
 </templateSet>
