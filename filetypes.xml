@@ -4,6 +4,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".secrets.baseline" type="PLAIN_TEXT" />
       <mapping pattern=".tar-exclude" type="PLAIN_TEXT" />
       <mapping pattern=".nvm" type="PLAIN_TEXT" />
       <mapping pattern="JenkinsFile" type="PLAIN_TEXT" />
